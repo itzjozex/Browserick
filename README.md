@@ -13,8 +13,11 @@ HTML changelog:
 - exiled any unnecessary id's not needed
 - Inserted figure element and Alt tags for images 
 
-Style CSS changelog:
-- Consolidated benefit, benefit H3s, and benefit img consolidated search engine social, imgs, and H2s
+CSS Style changelog:
+- merged all search engine opt, online rep, and social media market into a style group
+- consolidated all benefit classes into a style group
+- put all img, h3, and h2 into their respective style groups
+- updated style names to match classes listed in HTML (header, footer, nav) 
 
 Deployment of finished site with link:
 - https://itzjozex.github.io/Rutgers-Challenge-1/
