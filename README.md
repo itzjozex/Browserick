@@ -1,4 +1,4 @@
-# Rutgers-Challenge-1
+# Rutgers-Challenge-1 (Horiseon website)
 
 github repo: https://github.com/itzjozex/Browserick
 
