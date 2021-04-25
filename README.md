@@ -1,7 +1,5 @@
 # Rutgers-Challenge-1 (Horiseon website)
 
-github repo: https://github.com/itzjozex/Browserick
-
 The task of this assignment is to refactor an existing webpage to make it accessible and to have better accessibility using semantic HTML elemets and improve the CSS by refactoring the code to make the lines more clean and readable for employers.
 
 Changelog of new and improved code for the HTML site:
